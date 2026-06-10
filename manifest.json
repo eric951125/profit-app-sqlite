@@ -1,0 +1,17 @@
+{
+  "name": "ProFit 健身追蹤系統",
+  "short_name": "ProFit",
+  "description": "你的專屬專業健身紀錄 App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8F6F0",
+  "theme_color": "#00e676",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2964/2964514.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
